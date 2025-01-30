@@ -6,4 +6,4 @@
 
 </div>
 
-<a href="https://tapbaseapp.com/"><img width="100%%" style="border-radius:10px" alt="Farcaster" src="https://tapbaseapp.com/covers.png" /></a>
+<a href="https://tapbaseapp.com/"><img width="100%%"  alt="Farcaster" src="https://tapbaseapp.com/covers.png" /></a>
